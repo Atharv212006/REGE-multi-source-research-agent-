@@ -1,0 +1,26 @@
+
+# LangChain
+langchain
+langchain-community
+langchain-openai
+langchain-ollama
+langchain-text-splitters
+
+# Vector Database
+faiss-cpu
+
+# Frontend
+streamlit
+
+# Document Processing
+pypdf
+python-docx
+
+# Environment Variables
+python-dotenv
+
+# Web Search
+tavily-python
+
+# Utilities
+requests
