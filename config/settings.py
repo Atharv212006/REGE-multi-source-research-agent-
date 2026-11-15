@@ -20,6 +20,9 @@ OLLAMA_BASE_URL = os.getenv(
     "OLLAMA_BASE_URL",
     "http://localhost:11434"
 )
+TAVILY_API_KEY = os.getenv(
+    "tvly-13cS3k-UKdYvB90D9Ix4EhuLxwRMTtA9Ykq1Wt0ZlsK3jwqCu",   
+)
 
 # Data directories
 DATA_DIR = ROOT_DIR / "data"
